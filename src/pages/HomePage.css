@@ -1,0 +1,135 @@
+.span {
+    font-size: 64px;
+  }
+  .online-medicine-donation-container {
+    position: absolute;
+    top: 42px;
+    left: calc(50% - 335px);
+    display: inline-block;
+    width: 742px;
+  }
+  .frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-dodgerblue);
+    width: 1366px;
+    height: 160px;
+    overflow: hidden;
+  }
+  .admin-button,
+  .donar-button,
+  .user-button {
+    width: 116.625px;
+    position: absolute;
+    top: 30px;
+    left: 1193.38px;
+    cursor: pointer;
+  }
+  .admin-button,
+  .user-button {
+    width: 110.0694580078125px;
+    left: 1039.93px;
+  }
+  .user-button {
+    width: 113.51385498046875px;
+    left: 886.49px;
+  }
+  .frame1,
+  .home-button {
+    width: 116.95831298828125px;
+    position: absolute;
+    top: 30px;
+    left: 733.04px;
+  }
+  .frame1 {
+    top: 160px;
+    left: 0;
+    background-color: var(--color-darkgray);
+    width: 1366px;
+    height: 110px;
+    overflow: hidden;
+  }
+  .donate {
+    margin: 0;
+  }
+  .donate-medicines {
+    position: absolute;
+    top: 53px;
+    left: 62px;
+    font-size: var(--font-size-17xl);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    white-space: pre-wrap;
+    text-align: left;
+  }
+  .donate-medicine-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: var(--color-dodgerblue);
+    position: absolute;
+    top: 0;
+    left: 700px;
+    width: 290px;
+    height: 210px;
+  }
+  .get-medicines {
+    position: absolute;
+    top: 53px;
+    left: 67px;
+    font-size: var(--font-size-17xl);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    white-space: pre-wrap;
+    text-align: left;
+  }
+  .get-medicine-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: var(--color-dodgerblue);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 290px;
+    height: 210px;
+  }
+  .frame2,
+  .frame3,
+  .frame4 {
+    position: absolute;
+    top: 0;
+    left: 210px;
+    width: 990px;
+    height: 210px;
+    overflow: hidden;
+  }
+  .frame2,
+  .frame3 {
+    left: 0;
+    width: 1200px;
+  }
+  .frame2 {
+    top: 450px;
+    width: 1366px;
+  }
+  .our-services {
+    position: absolute;
+    top: 328px;
+    left: calc(50% - 110px);
+    font-size: 44px;
+    text-decoration: underline;
+  }
+  .home-page {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 768px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 48px;
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

@@ -1,0 +1,124 @@
+.pharmacy-adding-medicines-child {
+    position: absolute;
+    top: 20px;
+    left: 328px;
+    background-color: var(--color-darkslategray);
+    width: 702px;
+    height: 624px;
+  }
+  .how-to-use {
+    position: absolute;
+    top: 0px;
+    left: 82px;
+  }
+  .frame27 {
+    position: absolute;
+    top: 510px;
+    left: 328px;
+    width: 254px;
+    height: 46px;
+    overflow: hidden;
+  }
+  .frame28 {
+    width: 530px;
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 564px;
+    left: 410px;
+  }
+  .frame29 {
+    position: absolute;
+    top: 253px;
+    left: 328px;
+    width: 226px;
+    height: 46px;
+    overflow: hidden;
+  }
+  .frame30 {
+    width: 530px;
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 307px;
+    left: 410px;
+  }
+  .frame31 {
+    position: absolute;
+    top: 123px;
+    left: 328px;
+    width: 306px;
+    height: 46px;
+    overflow: hidden;
+  }
+  .frame32 {
+    position: absolute;
+    top: 383px;
+    left: 328px;
+    width: 233px;
+    height: 46px;
+    overflow: hidden;
+  }
+  .adding-medicines1 {
+    position: absolute;
+    top: 0px;
+    left: 229px;
+    text-decoration: underline;
+  }
+  .frame33 {
+    position: absolute;
+    top: 50px;
+    left: 328px;
+    width: 480px;
+    height: 46px;
+    overflow: hidden;
+  }
+  .frame34 {
+    width: 530px;
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 177px;
+    left: 410px;
+  }
+  .frame35 {
+    width: 530px;
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 437px;
+    left: 410px;
+  }
+  .pharmacy-adding-medicines-item {
+    position: absolute;
+    top: 644px;
+    left: 328px;
+    background-color: var(--color-darkgray);
+    width: 702px;
+    height: 82px;
+  }
+  .user-cancel-button7 {
+    width: 120px;
+    position: absolute;
+    top: 661px;
+    left: 414px;
+    cursor: pointer;
+  }
+  .user-cancel-button8 {
+    width: 120px;
+    position: absolute;
+    top: 662px;
+    left: 824px;
+    cursor: pointer;
+  }
+  .pharmacy-adding-medicines {
+    background-color: var(--color-white);
+    width: 1366px;
+    height: 768px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-istok-web);
+  }
+  

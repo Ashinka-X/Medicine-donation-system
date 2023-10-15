@@ -1,0 +1,117 @@
+.frame21 {
+    width: 278px;
+    position: absolute;
+    top: 0px;
+    left: 992px;
+    cursor: pointer;
+  }
+  .frame20 {
+    position: absolute;
+    top: 595px;
+    left: 40px;
+    width: 1270px;
+    height: 50px;
+    overflow: hidden;
+  }
+  .pharmacy-page1 {
+    position: absolute;
+    top: 36px;
+    left: 534px;
+  }
+  .frame22 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: var(--color-dodgerblue);
+    width: 1366px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .available-medicines1 {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+  }
+  .frame24 {
+    width: 130px;
+    position: absolute;
+    top: 0px;
+    left: 1132px;
+    cursor: pointer;
+  }
+  .frame23 {
+    position: absolute;
+    top: 140px;
+    left: 48px;
+    width: 1262px;
+    height: 58px;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: var(--font-size-13xl);
+  }
+  .frame-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1292px;
+    height: 341px;
+  }
+  .medicine-name2 {
+    position: relative;
+  }
+  .medicine-name-container {
+    align-self: stretch;
+    flex: 1;
+    background-color: var(--color-white);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+  }
+  .frame-parent4 {
+    width: 1237px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .frame-parent3 {
+    position: absolute;
+    top: 34px;
+    left: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .frame25 {
+    position: absolute;
+    top: 209px;
+    left: 48px;
+    width: 1292px;
+    height: 341px;
+    overflow: hidden;
+    font-size: var(--font-size-7xl);
+  }
+  .frame26 {
+    width: 278px;
+    position: absolute;
+    top: 665px;
+    left: 1032px;
+    cursor: pointer;
+  }
+  .pharmacy-page {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 768px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  
